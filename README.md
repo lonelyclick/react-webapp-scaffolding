@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.org/lonelyclick/react-webapp-scaffolding.svg?branch=master)](https://travis-ci.org/lonelyclick/react-webapp-scaffolding)
 [![GitHub version](https://badge.fury.io/gh/lonelyclick%2Freact-webapp-scaffolding.svg)](http://badge.fury.io/gh/lonelyclick%2Freact-webapp-scaffolding)
+[![Dependency Status](https://gemnasium.com/lonelyclick/react-webapp-scaffolding.svg)](https://gemnasium.com/lonelyclick/react-webapp-scaffolding)
 
 #react脚手架项目
 
