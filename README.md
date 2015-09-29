@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/lonelyclick/react-webapp-scaffolding.svg?branch=master)](https://travis-ci.org/lonelyclick/react-webapp-scaffolding)
+
 #react脚手架项目
 
 ##快速上手
