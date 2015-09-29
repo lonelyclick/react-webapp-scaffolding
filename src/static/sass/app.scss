@@ -1,0 +1,32 @@
+@import "./lib/bootstrap_variables";
+@import "./lib/bootstrap_override";
+
+@import url("~toastr/toastr.scss");
+@import url("~animate.css/animate.css");
+
+html, body {
+  height: 100%;
+}
+
+.app {
+  height: 100%;
+
+  .app-main {
+    height: 100%;
+    padding-top: 50px;
+  }
+
+  .app-not-found {
+    height: 100%;
+    position: relative;
+    div {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+    }
+  }
+}
+
+
+
